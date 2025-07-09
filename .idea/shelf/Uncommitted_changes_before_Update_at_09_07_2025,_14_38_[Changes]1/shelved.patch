@@ -1,0 +1,15 @@
+Index: requirements.txt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/requirements.txt b/requirements.txt
+--- a/requirements.txt	(revision ceb6daf3f5749204ee47510834579884929a4764)
++++ b/requirements.txt	(date 1752050433646)
+@@ -1,0 +1,6 @@
++pandas
++numpy
++scikit-learn
++xgboost
++matplotlib
++seaborn

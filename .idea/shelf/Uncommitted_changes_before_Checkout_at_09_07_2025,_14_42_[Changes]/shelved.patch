@@ -1,0 +1,12 @@
+Index: requirements.txt
+===================================================================
+diff --git a/requirements.txt b/requirements.txt
+--- a/requirements.txt	(revision 0f107df0521dc38fdec9dee41f321ee3f6f4d502)
++++ b/requirements.txt	(date 1752053924599)
+@@ -1,0 +1,6 @@
++pandas
++numpy
++scikit-learn
++xgboost
++matplotlib
++seaborn
